@@ -1,0 +1,41 @@
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 56px;
+}
+
+thead {
+  font-family: "Barrio", cursive;
+  background-color: #49af3b;
+  color: #c42323;
+}
+
+td {
+  font-family: "Roboto", sans-serif;
+  border-bottom: 1px solid #c2c8d4;
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr.even {
+  background-color: #c2c8d4;
+}
+
+tr.over {
+  background-color: #8797b7
+}
+
+th {
+  border-right: 2px solid #fff;
+  color: #fff;
+  padding-right: 40px;
+  padding-left: 20px;
+  background-color: #626975
+}
+
+p {
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+}
